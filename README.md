@@ -1,3 +1,5 @@
+**NOTE: PoodleLabs is moving homes to a self-hosted GitHub alternative; these repositories have been left up for posterity, and will not be updated**
+
 # PoodleLabs.GentooGen
 
 A set of scripts for raising and configuring a Gentoo environment on fully encrypted BTRFS with a feature-rich console environment, and optional Sway/Wayland graphical environment. The hardened OpenRC profile is used as a base, but these scripts use a heavily modified set of Portage flags.
